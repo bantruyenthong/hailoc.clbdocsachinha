@@ -41,9 +41,9 @@ h1 {
 }
 
 .logo {
-    margin-right: 10px;
+    margin-right: 30px;
     /* Khoảng cách giữa logo và chữ */
-    width: 50px;
+    width: 100px;
     /* Chiều rộng của logo */
     height: auto;
     /* Tự động điều chỉnh chiều cao theo tỷ lệ */
