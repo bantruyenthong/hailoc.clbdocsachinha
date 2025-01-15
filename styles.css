@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Noto Serif', serif;
     background-color: #fff7e6;
     /* Màu nền vàng nhạt */
     color: #333;
@@ -38,6 +38,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Dancing Script', cursive; /* Áp dụng font chữ Dancing Script cho tiêu đề */
 }
 
 .logo {
@@ -106,6 +107,7 @@ footer {
     color: white;
     /* Màu chữ trắng */
     text-align: center;
+    font-family: 'Noto Serif', serif; /* Áp dụng font chữ Noto Serif cho phần footer */
 }
 
 footer p {
